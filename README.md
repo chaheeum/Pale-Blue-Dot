@@ -1,5 +1,5 @@
 
-  # Interactive Envelope Design
+  # Pale Blue Dot
 
   This is a code bundle for Interactive Envelope Design. The original project is available at https://www.figma.com/design/moITuYIC3kJjryztBTit5x/Interactive-Envelope-Design.
 
